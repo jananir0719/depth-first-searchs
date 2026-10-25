@@ -88,13 +88,13 @@ F H <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 <h3>Program</h3>
-<img width="685" height="707" alt="Screenshot 2026-10-25 215712" src="https://github.com/user-attachments/assets/972ee10e-8c48-40a8-9481-c8d40fe6056f" />
+```<img width="685" height="707" alt="Screenshot 2026-10-25 215712" src="https://github.com/user-attachments/assets/972ee10e-8c48-40a8-9481-c8d40fe6056f" />```
 
 
 <hr>
 
 <h3>Result:</h3>
-<h3><img width="468" height="357" alt="Screenshot 2026-10-25 215701" src="https://github.com/user-attachments/assets/1f6f85bc-c639-4336-b373-e1aac3ba3f7e" />
+<h3>```<img width="468" height="357" alt="Screenshot 2026-10-25 215701" src="https://github.com/user-attachments/assets/1f6f85bc-c639-4336-b373-e1aac3ba3f7e" />```
 </h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
